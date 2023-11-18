@@ -1,0 +1,49 @@
+/* In your CSS file or style tag */
+body {
+  /* Specify the background image URL */
+  background-image: url('./assets/cover.webp');
+  display: flex;
+  flex-wrap: wrap;
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+
+#root {
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+  height: 100%;
+  text-align: center;
+}
+
+.logo {
+  width: 300px;
+  height: 200px;
+}
+
+.app {
+  display: flex;
+  gap: 50px;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+footer {
+  margin-top:100px;
+}
+
+.scoreboard {
+  gap: 20px;
+  border-color: black;
+  text-shadow: 1px 1px 1px yellow;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.scoreboard button {
+  width: 100px;
+}

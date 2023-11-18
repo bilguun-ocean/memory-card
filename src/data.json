@@ -1,0 +1,39 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "Gojo Satoru",
+      "imageUrl": "https://cdn.vox-cdn.com/thumbor/sM2nAt4_BjDKcdaFB9EtdcF9YfM=/0x60:1920x1020/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/24874033/vlcsnap_2023_08_25_14h45m21s886.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Suguru Geto",
+      "imageUrl": "https://thicc-af.mywaifulist.moe/waifus/suguru-geto-sorcery-fight/XaxiJqXm1EW4vX02wHpu83PiEweoa7QsPnKiITam.png?class=thumbnail"
+    },
+    {
+      "id": "3",
+      "name": "Yuji Itadori",
+      "imageUrl": "https://media.zenfs.com/en/augustman_my_848/4b74187b242eec3e027863f2b2c603fe"
+    },
+    {
+      "id": "4",
+      "name": "Megumi",
+      "imageUrl": "https://i.pinimg.com/1200x/6d/19/ef/6d19efefb4a82eda8e8eaa6908ca8d8f.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Toji Fushiguro",
+      "imageUrl": "https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_900,w_1600/https%3A%2F%2Fbamsmackpow.com%2Ffiles%2Fimage-exchange%2F2023%2F07%2Fie_105667.jpeg"
+    },
+    {
+      "id": "7",
+      "name": "Choso",
+      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/01/71e56-16730418675861-1920.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Sukuna",
+      "imageUrl": "https://staticg.sportskeeda.com/editor/2023/04/2345b-16807967691962-1920.jpg?w=840"
+    }
+  ]
+}
